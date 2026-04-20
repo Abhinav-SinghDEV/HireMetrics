@@ -16,7 +16,7 @@ This project was built by a team of three friends during a hackathon with the go
 - ❌ Missing keyword identification
 - 💡 Resume improvement suggestions
 - ⏳ Real-time loading & feedback
-- 📱 Fully responsive UI
+- 📱 Fully responsive UI..
 
 ---
 
